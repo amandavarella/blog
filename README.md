@@ -24,4 +24,4 @@ Things you may want to cover:
 * ...
 # blog
 
-Stopped at https://guides.rubyonrails.org/getting_started.html#creating-the-article-model
+Stopped at https://guides.rubyonrails.org/getting_started.html#listing-all-articles

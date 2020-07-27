@@ -1,3 +1,5 @@
+
+
 <p>
     <strong>Title:</strong>
     <%= @article.title %>
@@ -6,3 +8,7 @@
     <strong>Text:</strong>
     <%= @article.text %>
 </p>
+
+<%= link_to 'Back', articles_path %>
+
+<!--If you want to link to an action in the same controller, you don't need to specify the :controller option, as Rails will use the current controller by default.-->

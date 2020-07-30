@@ -24,4 +24,4 @@ Things you may want to cover:
 * ...
 # blog
 
-Stopped at https://guides.rubyonrails.org/getting_started.html#adding-some-validation
+Stopped at https://guides.rubyonrails.org/getting_started.html#updating-articles

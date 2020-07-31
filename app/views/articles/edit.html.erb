@@ -1,5 +1,5 @@
-<!-- scope: :article brings an empty form -->
-<%= form_with scope: :article,  url: articles_path, local: true do |form| %>
+<!-- model: @article passes the article that was recovered in the control through the method edit -->
+<%= form_with(model: @article, local: true) do |form| %>
     <% if @article.errors.any? %>
         <div id="error_explanation">
             <h2>

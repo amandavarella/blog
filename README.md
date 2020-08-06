@@ -1,27 +1,17 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+My Ruby on Rails learning project
 
-Things you may want to cover:
+https://guides.rubyonrails.org/getting_started.html
 
-* Ruby version
 
-* System dependencies
+* Rails version
+6.0.3.2
 
-* Configuration
+* Running
 
-* Database creation
+`rails server`
 
-* Database initialization
+* On the browser
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# blog
-
-Stopped at https://guides.rubyonrails.org/getting_started.html#refactoring
+`http://localhost:3000`
